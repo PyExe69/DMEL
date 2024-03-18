@@ -25,4 +25,4 @@ DMEL - Discord Messages Exploit Library.
 
 - Preview: [YouTube Link](https://youtu.be/6G3Y8azhUik)
 - Version: 1.0
-- ⚠⚠⚠ THIS CODE IS ONLY PoC (PROOF OF CONCEPT), WE ARE NOT RESPONSIBLE FOR YOUR ACTIONS ⚠⚠⚠ 
+- ⚠ THIS CODE IS ONLY PoC (PROOF OF CONCEPT), WE ARE NOT RESPONSIBLE FOR YOUR ACTIONS ⚠
