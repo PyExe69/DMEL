@@ -2,8 +2,9 @@ import pyperclip
 import time
 import os
 from urllib.parse import urlparse
+import ctypes
 
-os.system('title DMEL v1.0')
+ctypes.windll.kernel32.SetConsoleTitleW("DMEL v1.0")
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
